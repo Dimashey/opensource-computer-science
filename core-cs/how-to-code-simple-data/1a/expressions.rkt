@@ -1,3 +1,3 @@
 (module expressions racket
-	(sqrt (+ (sqr 4) (sqr 3)))
+	(sqrt (+ (sqr 3) (sqr 4)))
 )
